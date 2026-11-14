@@ -62,7 +62,7 @@ st.markdown(
 # ============================================================
 
 PROJECT_DIR = Path(__file__).resolve().parent
-RAW_DATA_DIR = PROJECT_DIR.parent / "data" / "raw"
+RAW_DATA_DIR = PROJECT_DIR.parent / "data" 
 
 SOURCE_FILES = {
     "FactSales": "FactSales.csv",

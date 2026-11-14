@@ -1,0 +1,656 @@
+﻿GeographyKey,Country/Region,State/Province,City,Postal Code,Region
+1,Canada,Alberta,Calgary,T1Y,Pacific
+2,Canada,Alberta,Calgary,T2C,Pacific
+3,Canada,Alberta,Edmonton,T5A,Pacific
+4,Canada,British Columbia,Vancouver,V5K,Pacific
+5,Canada,British Columbia,Vancouver,V6B,Pacific
+6,Canada,British Columbia,Vancouver,V6E,Pacific
+7,Canada,British Columbia,Vancouver,V6G,Pacific
+8,Canada,British Columbia,Vancouver,V6Z,Pacific
+9,Canada,Manitoba,Winnipeg,R0H,Interior
+10,Canada,Manitoba,Winnipeg,R3R,Interior
+11,Canada,New Brunswick,Moncton,E1A,Atlantic
+12,Canada,Newfoundland and Labrador,St. John's,A0A,Atlantic
+13,Canada,Nova Scotia,Halifax,B3H,Atlantic
+14,Canada,Ontario,Toronto,M2N,Atlantic
+15,Canada,Ontario,Toronto,M3C,Atlantic
+16,Canada,Ontario,Toronto,M5H,Atlantic
+17,Canada,Ontario,Toronto,M7A,Atlantic
+18,Canada,Prince Edward Island,Charlottetown,C0A,Atlantic
+19,Canada,Quebec,Montreal,H1A,Atlantic
+20,Canada,Quebec,Montreal,H1B,Atlantic
+21,Canada,Quebec,Montreal,H1C,Atlantic
+22,Canada,Quebec,Quebec City,G1B,Atlantic
+23,Canada,Saskatchewan,Regina,S0G,Pacific
+24,United States,Alabama,Auburn,36830,Gulf
+25,United States,Alabama,Decatur,35601,Gulf
+26,United States,Alabama,Florence,35630,Gulf
+27,United States,Alabama,Hoover,35244,Gulf
+28,United States,Alabama,Huntsville,35810,Gulf
+29,United States,Alabama,Mobile,36608,Gulf
+30,United States,Alabama,Montgomery,36116,Gulf
+31,United States,Alabama,Tuscaloosa,35401,Gulf
+32,United States,Arizona,Avondale,85323,Pacific
+33,United States,Arizona,Bullhead City,86442,Pacific
+34,United States,Arizona,Chandler,85224,Pacific
+35,United States,Arizona,Gilbert,85234,Pacific
+36,United States,Arizona,Glendale,85301,Pacific
+37,United States,Arizona,Mesa,85204,Pacific
+38,United States,Arizona,Peoria,85345,Pacific
+39,United States,Arizona,Phoenix,85023,Pacific
+40,United States,Arizona,Scottsdale,85254,Pacific
+41,United States,Arizona,Sierra Vista,85635,Pacific
+42,United States,Arizona,Tempe,85281,Pacific
+43,United States,Arizona,Tucson,85705,Pacific
+44,United States,Arizona,Yuma,85364,Pacific
+45,United States,Arkansas,Conway,72032,Gulf
+46,United States,Arkansas,Fayetteville,72701,Gulf
+47,United States,Arkansas,Hot Springs,71901,Gulf
+48,United States,Arkansas,Jonesboro,72401,Gulf
+49,United States,Arkansas,Little Rock,72209,Gulf
+50,United States,Arkansas,Pine Bluff,71603,Gulf
+51,United States,Arkansas,Rogers,72756,Gulf
+52,United States,Arkansas,Springdale,72762,Gulf
+53,United States,Arkansas,Texarkana,71854,Gulf
+54,United States,California,Anaheim,92804,Pacific
+55,United States,California,Antioch,94509,Pacific
+56,United States,California,Apple Valley,92307,Pacific
+57,United States,California,Bakersfield,93309,Pacific
+58,United States,California,Brentwood,94513,Pacific
+59,United States,California,Burbank,91505,Pacific
+60,United States,California,Camarillo,93010,Pacific
+61,United States,California,Chico,95928,Pacific
+62,United States,California,Chula Vista,91911,Pacific
+63,United States,California,Citrus Heights,95610,Pacific
+64,United States,California,Coachella,92236,Pacific
+65,United States,California,Concord,94521,Pacific
+66,United States,California,Costa Mesa,92627,Pacific
+67,United States,California,Danville,94526,Pacific
+68,United States,California,Davis,95616,Pacific
+69,United States,California,Dublin,94568,Pacific
+70,United States,California,El Cajon,92020,Pacific
+71,United States,California,Encinitas,92024,Pacific
+72,United States,California,Escondido,92025,Pacific
+73,United States,California,Fairfield,94533,Pacific
+74,United States,California,Fresno,93727,Pacific
+75,United States,California,Hesperia,92345,Pacific
+76,United States,California,Huntington Beach,92646,Pacific
+77,United States,California,Inglewood,90301,Pacific
+78,United States,California,La Mesa,91941,Pacific
+79,United States,California,La Quinta,92253,Pacific
+80,United States,California,Laguna Niguel,92677,Pacific
+81,United States,California,Lake Elsinore,92530,Pacific
+82,United States,California,Lake Forest,92630,Pacific
+83,United States,California,Lakewood,90712,Pacific
+84,United States,California,Lancaster,93534,Pacific
+85,United States,California,Lodi,95240,Pacific
+86,United States,California,Long Beach,90805,Pacific
+87,United States,California,Los Angeles,90004,Pacific
+88,United States,California,Los Angeles,90008,Pacific
+89,United States,California,Los Angeles,90032,Pacific
+90,United States,California,Los Angeles,90036,Pacific
+91,United States,California,Los Angeles,90045,Pacific
+92,United States,California,Los Angeles,90049,Pacific
+93,United States,California,Manteca,95336,Pacific
+94,United States,California,Mission Viejo,92691,Pacific
+95,United States,California,Modesto,95351,Pacific
+96,United States,California,Montebello,90640,Pacific
+97,United States,California,Moreno Valley,92553,Pacific
+98,United States,California,Morgan Hill,95037,Pacific
+99,United States,California,Murrieta,92563,Pacific
+100,United States,California,Oakland,94601,Pacific
+101,United States,California,Oceanside,92054,Pacific
+102,United States,California,Ontario,91761,Pacific
+103,United States,California,Oxnard,93030,Pacific
+104,United States,California,Pasadena,91104,Pacific
+105,United States,California,Pico Rivera,90660,Pacific
+106,United States,California,Pomona,91767,Pacific
+107,United States,California,Rancho Cucamonga,91730,Pacific
+108,United States,California,Redding,96003,Pacific
+109,United States,California,Redlands,92374,Pacific
+110,United States,California,Redondo Beach,90278,Pacific
+111,United States,California,Redwood City,94061,Pacific
+112,United States,California,Riverside,92503,Pacific
+113,United States,California,Roseville,95661,Pacific
+114,United States,California,Sacramento,95823,Pacific
+115,United States,California,Salinas,93905,Pacific
+116,United States,California,San Bernardino,92404,Pacific
+117,United States,California,San Clemente,92672,Pacific
+118,United States,California,San Diego,92024,Pacific
+119,United States,California,San Diego,92037,Pacific
+120,United States,California,San Diego,92105,Pacific
+121,United States,California,San Francisco,94109,Pacific
+122,United States,California,San Francisco,94110,Pacific
+123,United States,California,San Francisco,94122,Pacific
+124,United States,California,San Gabriel,91776,Pacific
+125,United States,California,San Jose,95123,Pacific
+126,United States,California,San Luis Obispo,93405,Pacific
+127,United States,California,San Mateo,94403,Pacific
+128,United States,California,Santa Ana,92704,Pacific
+129,United States,California,Santa Barbara,93101,Pacific
+130,United States,California,Santa Clara,95051,Pacific
+131,United States,California,Santa Maria,93454,Pacific
+132,United States,California,Stockton,95207,Pacific
+133,United States,California,Sunnyvale,94086,Pacific
+134,United States,California,Temecula,92592,Pacific
+135,United States,California,Thousand Oaks,91360,Pacific
+136,United States,California,Torrance,90503,Pacific
+137,United States,California,Vacaville,95687,Pacific
+138,United States,California,Vallejo,94591,Pacific
+139,United States,California,Visalia,93277,Pacific
+140,United States,California,Westminster,92683,Pacific
+141,United States,California,Whittier,90604,Pacific
+142,United States,California,Woodland,95695,Pacific
+143,United States,California,Yucaipa,92399,Pacific
+144,United States,Colorado,Arvada,80004,Pacific
+145,United States,Colorado,Aurora,80013,Pacific
+146,United States,Colorado,Broomfield,80020,Pacific
+147,United States,Colorado,Colorado Springs,80906,Pacific
+148,United States,Colorado,Commerce City,80022,Pacific
+149,United States,Colorado,Denver,80219,Pacific
+150,United States,Colorado,Englewood,80112,Pacific
+151,United States,Colorado,Fort Collins,80525,Pacific
+152,United States,Colorado,Greeley,80634,Pacific
+153,United States,Colorado,Littleton,80122,Pacific
+154,United States,Colorado,Longmont,80501,Pacific
+155,United States,Colorado,Louisville,80027,Pacific
+156,United States,Colorado,Loveland,80538,Pacific
+157,United States,Colorado,Parker,80134,Pacific
+158,United States,Colorado,Pueblo,81001,Pacific
+159,United States,Colorado,Thornton,80229,Pacific
+160,United States,Connecticut,Bristol,6010,Atlantic
+161,United States,Connecticut,Danbury,6810,Atlantic
+162,United States,Connecticut,Fairfield,6824,Atlantic
+163,United States,Connecticut,Manchester,6040,Atlantic
+164,United States,Connecticut,Meriden,6450,Atlantic
+165,United States,Connecticut,Middletown,6457,Atlantic
+166,United States,Connecticut,Milford,6460,Atlantic
+167,United States,Connecticut,Norwich,6360,Atlantic
+168,United States,Connecticut,Shelton,6484,Atlantic
+169,United States,Connecticut,Waterbury,6708,Atlantic
+170,United States,Delaware,Dover,19901,Atlantic
+171,United States,Delaware,Newark,19711,Atlantic
+172,United States,Delaware,Wilmington,19805,Atlantic
+173,United States,District of Columbia,Washington,20016,Atlantic
+174,United States,Florida,Apopka,32712,Gulf
+175,United States,Florida,Boca Raton,33433,Gulf
+176,United States,Florida,Boynton Beach,33437,Gulf
+177,United States,Florida,Coral Gables,33134,Gulf
+178,United States,Florida,Coral Springs,33065,Gulf
+179,United States,Florida,Daytona Beach,32114,Gulf
+180,United States,Florida,Delray Beach,33445,Gulf
+181,United States,Florida,Deltona,32725,Gulf
+182,United States,Florida,Fort Lauderdale,33311,Gulf
+183,United States,Florida,Hialeah,33012,Gulf
+184,United States,Florida,Hollywood,33021,Gulf
+185,United States,Florida,Homestead,33030,Gulf
+186,United States,Florida,Jacksonville,32216,Gulf
+187,United States,Florida,Jupiter,33458,Gulf
+188,United States,Florida,Kissimmee,34741,Gulf
+189,United States,Florida,Lakeland,33801,Gulf
+190,United States,Florida,Margate,33063,Gulf
+191,United States,Florida,Melbourne,32935,Gulf
+192,United States,Florida,Miami,33142,Gulf
+193,United States,Florida,Miami,33178,Gulf
+194,United States,Florida,Miami,33180,Gulf
+195,United States,Florida,Miramar,33023,Gulf
+196,United States,Florida,North Miami,33161,Gulf
+197,United States,Florida,Orlando,32839,Gulf
+198,United States,Florida,Ormond Beach,32174,Gulf
+199,United States,Florida,Palm Coast,32137,Gulf
+200,United States,Florida,Pembroke Pines,33024,Gulf
+201,United States,Florida,Pensacola,32503,Gulf
+202,United States,Florida,Plantation,33317,Gulf
+203,United States,Florida,Pompano Beach,33068,Gulf
+204,United States,Florida,Port Orange,32127,Gulf
+205,United States,Florida,Port Saint Lucie,34952,Gulf
+206,United States,Florida,Saint Petersburg,33710,Gulf
+207,United States,Florida,Sanford,32771,Gulf
+208,United States,Florida,Tallahassee,32303,Gulf
+209,United States,Florida,Tamarac,33319,Gulf
+210,United States,Florida,Tampa,33614,Gulf
+211,United States,Florida,West Palm Beach,33407,Gulf
+212,United States,Georgia,Athens,30605,Gulf
+213,United States,Georgia,Atlanta,30318,Gulf
+214,United States,Georgia,Columbus,31907,Gulf
+215,United States,Georgia,East Point,30344,Gulf
+216,United States,Georgia,Macon,31204,Gulf
+217,United States,Georgia,Marietta,30062,Gulf
+218,United States,Georgia,Roswell,30076,Gulf
+219,United States,Georgia,Sandy Springs,30328,Gulf
+220,United States,Georgia,Smyrna,30080,Gulf
+221,United States,Georgia,Warner Robins,31088,Gulf
+222,United States,Georgia,Woodstock,30188,Gulf
+223,United States,Idaho,Boise,83704,Pacific
+224,United States,Idaho,Caldwell,83605,Pacific
+225,United States,Idaho,Lewiston,83501,Pacific
+226,United States,Idaho,Meridian,83642,Pacific
+227,United States,Idaho,Pocatello,83201,Pacific
+228,United States,Idaho,Twin Falls,83301,Pacific
+229,United States,Illinois,Arlington Heights,60004,Interior
+230,United States,Illinois,Aurora,60505,Interior
+231,United States,Illinois,Bloomington,61701,Interior
+232,United States,Illinois,Bolingbrook,60440,Interior
+233,United States,Illinois,Buffalo Grove,60089,Interior
+234,United States,Illinois,Carol Stream,60188,Interior
+235,United States,Illinois,Champaign,61821,Interior
+236,United States,Illinois,Chicago,60610,Interior
+237,United States,Illinois,Chicago,60623,Interior
+238,United States,Illinois,Chicago,60653,Interior
+239,United States,Illinois,Danville,61832,Interior
+240,United States,Illinois,Decatur,62521,Interior
+241,United States,Illinois,Des Plaines,60016,Interior
+242,United States,Illinois,Elmhurst,60126,Interior
+243,United States,Illinois,Evanston,60201,Interior
+244,United States,Illinois,Frankfort,60423,Interior
+245,United States,Illinois,Freeport,61032,Interior
+246,United States,Illinois,Glenview,60025,Interior
+247,United States,Illinois,Highland Park,60035,Interior
+248,United States,Illinois,Naperville,60540,Interior
+249,United States,Illinois,Normal,61761,Interior
+250,United States,Illinois,Oak Park,60302,Interior
+251,United States,Illinois,Orland Park,60462,Interior
+252,United States,Illinois,Oswego,60543,Interior
+253,United States,Illinois,Palatine,60067,Interior
+254,United States,Illinois,Park Ridge,60068,Interior
+255,United States,Illinois,Peoria,61604,Interior
+256,United States,Illinois,Quincy,62301,Interior
+257,United States,Illinois,Rockford,61107,Interior
+258,United States,Illinois,Romeoville,60441,Interior
+259,United States,Illinois,Saint Charles,60174,Interior
+260,United States,Illinois,Skokie,60076,Interior
+261,United States,Illinois,Tinley Park,60477,Interior
+262,United States,Illinois,Wheeling,60090,Interior
+263,United States,Illinois,Woodstock,60098,Interior
+264,United States,Indiana,Bloomington,47401,Interior
+265,United States,Indiana,Columbus,47201,Interior
+266,United States,Indiana,Elkhart,46514,Interior
+267,United States,Indiana,Greenwood,46142,Interior
+268,United States,Indiana,Indianapolis,46203,Interior
+269,United States,Indiana,La Porte,46350,Interior
+270,United States,Indiana,Lafayette,47905,Interior
+271,United States,Indiana,Lawrence,46226,Interior
+272,United States,Indiana,Mishawaka,46544,Interior
+273,United States,Indiana,New Albany,47150,Interior
+274,United States,Indiana,New Castle,47362,Interior
+275,United States,Indiana,Noblesville,46060,Interior
+276,United States,Indiana,Portage,46368,Interior
+277,United States,Indiana,Richmond,47374,Interior
+278,United States,Indiana,South Bend,46614,Interior
+279,United States,Iowa,Burlington,52601,Interior
+280,United States,Iowa,Cedar Rapids,52402,Interior
+281,United States,Iowa,Des Moines,50315,Interior
+282,United States,Iowa,Dubuque,52001,Interior
+283,United States,Iowa,Iowa City,52240,Interior
+284,United States,Iowa,Marion,52302,Interior
+285,United States,Iowa,Urbandale,50322,Interior
+286,United States,Iowa,Waterloo,50701,Interior
+287,United States,Kansas,Garden City,67846,Interior
+288,United States,Kansas,Manhattan,66502,Interior
+289,United States,Kansas,Olathe,66062,Interior
+290,United States,Kansas,Overland Park,66212,Interior
+291,United States,Kansas,Wichita,67212,Interior
+292,United States,Kentucky,Bowling Green,42104,Gulf
+293,United States,Kentucky,Florence,41042,Gulf
+294,United States,Kentucky,Georgetown,40324,Gulf
+295,United States,Kentucky,Henderson,42420,Gulf
+296,United States,Kentucky,Louisville,40214,Gulf
+297,United States,Kentucky,Murray,42071,Gulf
+298,United States,Kentucky,Owensboro,42301,Gulf
+299,United States,Kentucky,Richmond,40475,Gulf
+300,United States,Louisiana,Bossier City,71111,Gulf
+301,United States,Louisiana,Kenner,70065,Gulf
+302,United States,Louisiana,Lafayette,70506,Gulf
+303,United States,Louisiana,Lake Charles,70601,Gulf
+304,United States,Louisiana,Monroe,71203,Gulf
+305,United States,Maine,Bangor,4401,Atlantic
+306,United States,Maine,Lewiston,4240,Atlantic
+307,United States,Maryland,Baltimore,21215,Atlantic
+308,United States,Maryland,Clinton,20735,Atlantic
+309,United States,Maryland,Columbia,21044,Atlantic
+310,United States,Maryland,Gaithersburg,20877,Atlantic
+311,United States,Maryland,Hagerstown,21740,Atlantic
+312,United States,Maryland,Laurel,20707,Atlantic
+313,United States,Maryland,Rockville,20852,Atlantic
+314,United States,Massachusetts,Andover,1810,Atlantic
+315,United States,Massachusetts,Beverly,1915,Atlantic
+316,United States,Massachusetts,Cambridge,2138,Atlantic
+317,United States,Massachusetts,Everett,2149,Atlantic
+318,United States,Massachusetts,Franklin,2038,Atlantic
+319,United States,Massachusetts,Holyoke,1040,Atlantic
+320,United States,Massachusetts,Lawrence,1841,Atlantic
+321,United States,Massachusetts,Leominster,1453,Atlantic
+322,United States,Massachusetts,Lowell,1852,Atlantic
+323,United States,Massachusetts,Malden,2148,Atlantic
+324,United States,Massachusetts,Marlborough,1752,Atlantic
+325,United States,Massachusetts,New Bedford,2740,Atlantic
+326,United States,Massachusetts,Quincy,2169,Atlantic
+327,United States,Massachusetts,Revere,2151,Atlantic
+328,United States,Michigan,Ann Arbor,48104,Interior
+329,United States,Michigan,Canton,48187,Interior
+330,United States,Michigan,Dearborn,48126,Interior
+331,United States,Michigan,Dearborn Heights,48127,Interior
+332,United States,Michigan,Detroit,48205,Interior
+333,United States,Michigan,Detroit,48227,Interior
+334,United States,Michigan,Detroit,48234,Interior
+335,United States,Michigan,Grand Rapids,49505,Interior
+336,United States,Michigan,Holland,49423,Interior
+337,United States,Michigan,Jackson,49201,Interior
+338,United States,Michigan,Lansing,48911,Interior
+339,United States,Michigan,Lincoln Park,48146,Interior
+340,United States,Michigan,Midland,48640,Interior
+341,United States,Michigan,Mount Pleasant,48858,Interior
+342,United States,Michigan,Oak Park,48237,Interior
+343,United States,Michigan,Rochester Hills,48307,Interior
+344,United States,Michigan,Roseville,48066,Interior
+345,United States,Michigan,Royal Oak,48073,Interior
+346,United States,Michigan,Saginaw,48601,Interior
+347,United States,Michigan,Sterling Heights,48310,Interior
+348,United States,Michigan,Taylor,48180,Interior
+349,United States,Michigan,Trenton,48183,Interior
+350,United States,Michigan,Westland,48185,Interior
+351,United States,Minnesota,Apple Valley,55124,Interior
+352,United States,Minnesota,Coon Rapids,55433,Interior
+353,United States,Minnesota,Cottage Grove,55016,Interior
+354,United States,Minnesota,Eagan,55122,Interior
+355,United States,Minnesota,Lakeville,55044,Interior
+356,United States,Minnesota,Maple Grove,55369,Interior
+357,United States,Minnesota,Minneapolis,55407,Interior
+358,United States,Minnesota,Moorhead,56560,Interior
+359,United States,Minnesota,Rochester,55901,Interior
+360,United States,Minnesota,Roseville,55113,Interior
+361,United States,Minnesota,Saint Cloud,56301,Interior
+362,United States,Minnesota,Saint Paul,55106,Interior
+363,United States,Minnesota,Woodbury,55125,Interior
+364,United States,Mississippi,Gulfport,39503,Gulf
+365,United States,Mississippi,Hattiesburg,39401,Gulf
+366,United States,Mississippi,Jackson,39212,Gulf
+367,United States,Mississippi,Southaven,38671,Gulf
+368,United States,Missouri,Columbia,65203,Interior
+369,United States,Missouri,Gladstone,64118,Interior
+370,United States,Missouri,Independence,64055,Interior
+371,United States,Missouri,Jefferson City,65109,Interior
+372,United States,Missouri,Kirkwood,63122,Interior
+373,United States,Missouri,Saint Charles,63301,Interior
+374,United States,Missouri,Saint Louis,63116,Interior
+375,United States,Missouri,Saint Peters,63376,Interior
+376,United States,Missouri,Springfield,65807,Interior
+377,United States,Montana,Billings,59102,Pacific
+378,United States,Montana,Bozeman,59715,Pacific
+379,United States,Montana,Great Falls,59405,Pacific
+380,United States,Montana,Helena,59601,Pacific
+381,United States,Montana,Missoula,59801,Pacific
+382,United States,Nebraska,Fremont,68025,Interior
+383,United States,Nebraska,Grand Island,68801,Interior
+384,United States,Nebraska,Norfolk,68701,Interior
+385,United States,Nebraska,Omaha,68104,Interior
+386,United States,Nevada,Henderson,89015,Pacific
+387,United States,Nevada,Las Vegas,89115,Pacific
+388,United States,Nevada,North Las Vegas,89031,Pacific
+389,United States,Nevada,Reno,89502,Pacific
+390,United States,Nevada,Sparks,89431,Pacific
+391,United States,New Hampshire,Concord,3301,Atlantic
+392,United States,New Hampshire,Dover,3820,Atlantic
+393,United States,New Hampshire,Nashua,3060,Atlantic
+394,United States,New Jersey,Atlantic City,8401,Atlantic
+395,United States,New Jersey,Bayonne,7002,Atlantic
+396,United States,New Jersey,Belleville,7109,Atlantic
+397,United States,New Jersey,Bridgeton,8302,Atlantic
+398,United States,New Jersey,Clifton,7011,Atlantic
+399,United States,New Jersey,East Orange,7017,Atlantic
+400,United States,New Jersey,Hackensack,7601,Atlantic
+401,United States,New Jersey,Lakewood,8701,Atlantic
+402,United States,New Jersey,Linden,7036,Atlantic
+403,United States,New Jersey,Morristown,7960,Atlantic
+404,United States,New Jersey,New Brunswick,8901,Atlantic
+405,United States,New Jersey,Orange,7050,Atlantic
+406,United States,New Jersey,Passaic,7055,Atlantic
+407,United States,New Jersey,Paterson,7501,Atlantic
+408,United States,New Jersey,Perth Amboy,8861,Atlantic
+409,United States,New Jersey,Plainfield,7060,Atlantic
+410,United States,New Jersey,Vineland,8360,Atlantic
+411,United States,New Jersey,Westfield,7090,Atlantic
+412,United States,New Mexico,Albuquerque,87105,Pacific
+413,United States,New Mexico,Carlsbad,88220,Pacific
+414,United States,New Mexico,Clovis,88101,Pacific
+415,United States,New Mexico,Farmington,87401,Pacific
+416,United States,New Mexico,Las Cruces,88001,Pacific
+417,United States,New Mexico,Rio Rancho,87124,Pacific
+418,United States,New Mexico,Santa Fe,87505,Pacific
+419,United States,New York,Auburn,13021,Atlantic
+420,United States,New York,Buffalo,14215,Atlantic
+421,United States,New York,Freeport,11520,Atlantic
+422,United States,New York,Hempstead,11550,Atlantic
+423,United States,New York,Jamestown,14701,Atlantic
+424,United States,New York,Lindenhurst,11757,Atlantic
+425,United States,New York,Long Beach,11561,Atlantic
+426,United States,New York,Mount Vernon,10550,Atlantic
+427,United States,New York,New Rochelle,10801,Atlantic
+428,United States,New York,New York City,10009,Atlantic
+429,United States,New York,New York City,10011,Atlantic
+430,United States,New York,New York City,10024,Atlantic
+431,United States,New York,New York City,10035,Atlantic
+432,United States,New York,Niagara Falls,14304,Atlantic
+433,United States,New York,Oceanside,11572,Atlantic
+434,United States,New York,Rochester,14609,Atlantic
+435,United States,New York,Rome,13440,Atlantic
+436,United States,New York,Troy,12180,Atlantic
+437,United States,New York,Utica,13501,Atlantic
+438,United States,New York,Watertown,13601,Atlantic
+439,United States,New York,Yonkers,10701,Atlantic
+440,United States,North Carolina,Asheville,28806,Gulf
+441,United States,North Carolina,Burlington,27217,Gulf
+442,United States,North Carolina,Cary,27511,Gulf
+443,United States,North Carolina,Chapel Hill,27514,Gulf
+444,United States,North Carolina,Charlotte,28205,Gulf
+445,United States,North Carolina,Concord,28027,Gulf
+446,United States,North Carolina,Durham,27707,Gulf
+447,United States,North Carolina,Fayetteville,28314,Gulf
+448,United States,North Carolina,Gastonia,28052,Gulf
+449,United States,North Carolina,Goldsboro,27534,Gulf
+450,United States,North Carolina,Greensboro,27405,Gulf
+451,United States,North Carolina,Greenville,27834,Gulf
+452,United States,North Carolina,Hickory,28601,Gulf
+453,United States,North Carolina,Jacksonville,28540,Gulf
+454,United States,North Carolina,Monroe,28110,Gulf
+455,United States,North Carolina,Raleigh,27604,Gulf
+456,United States,North Carolina,Thomasville,27360,Gulf
+457,United States,North Carolina,Wilmington,28403,Gulf
+458,United States,North Carolina,Wilson,27893,Gulf
+459,United States,North Dakota,Fargo,58103,Interior
+460,United States,Ohio,Akron,44312,Atlantic
+461,United States,Ohio,Bowling Green,43402,Atlantic
+462,United States,Ohio,Cincinnati,45231,Atlantic
+463,United States,Ohio,Cleveland,44105,Atlantic
+464,United States,Ohio,Columbus,43229,Atlantic
+465,United States,Ohio,Cuyahoga Falls,44221,Atlantic
+466,United States,Ohio,Dublin,43017,Atlantic
+467,United States,Ohio,Elyria,44035,Atlantic
+468,United States,Ohio,Fairfield,45014,Atlantic
+469,United States,Ohio,Grove City,43123,Atlantic
+470,United States,Ohio,Hamilton,45011,Atlantic
+471,United States,Ohio,Kent,44240,Atlantic
+472,United States,Ohio,Lakewood,44107,Atlantic
+473,United States,Ohio,Lancaster,43130,Atlantic
+474,United States,Ohio,Lorain,44052,Atlantic
+475,United States,Ohio,Marion,43302,Atlantic
+476,United States,Ohio,Mason,45040,Atlantic
+477,United States,Ohio,Medina,44256,Atlantic
+478,United States,Ohio,Mentor,44060,Atlantic
+479,United States,Ohio,Newark,43055,Atlantic
+480,United States,Ohio,Parma,44134,Atlantic
+481,United States,Ohio,Springfield,45503,Atlantic
+482,United States,Ohio,Toledo,43615,Atlantic
+483,United States,Ohio,Troy,45373,Atlantic
+484,United States,Oklahoma,Broken Arrow,74012,Interior
+485,United States,Oklahoma,Edmond,73034,Interior
+486,United States,Oklahoma,Lawton,73505,Interior
+487,United States,Oklahoma,Muskogee,74403,Interior
+488,United States,Oklahoma,Norman,73071,Interior
+489,United States,Oklahoma,Oklahoma City,73120,Interior
+490,United States,Oklahoma,Tulsa,74133,Interior
+491,United States,Oregon,Eugene,97405,Pacific
+492,United States,Oregon,Gresham,97030,Pacific
+493,United States,Oregon,Hillsboro,97123,Pacific
+494,United States,Oregon,Medford,97504,Pacific
+495,United States,Oregon,Portland,97206,Pacific
+496,United States,Oregon,Redmond,97756,Pacific
+497,United States,Oregon,Salem,97301,Pacific
+498,United States,Oregon,Springfield,97477,Pacific
+499,United States,Oregon,Tigard,97224,Pacific
+500,United States,Pennsylvania,Allentown,18103,Atlantic
+501,United States,Pennsylvania,Altoona,16602,Atlantic
+502,United States,Pennsylvania,Bethlehem,18018,Atlantic
+503,United States,Pennsylvania,Chester,19013,Atlantic
+504,United States,Pennsylvania,Lancaster,17602,Atlantic
+505,United States,Pennsylvania,Philadelphia,19120,Atlantic
+506,United States,Pennsylvania,Philadelphia,19134,Atlantic
+507,United States,Pennsylvania,Philadelphia,19140,Atlantic
+508,United States,Pennsylvania,Philadelphia,19143,Atlantic
+509,United States,Pennsylvania,Reading,19601,Atlantic
+510,United States,Pennsylvania,York,17403,Atlantic
+511,United States,Rhode Island,Cranston,2920,Atlantic
+512,United States,Rhode Island,Providence,2908,Atlantic
+513,United States,Rhode Island,Warwick,2886,Atlantic
+514,United States,Rhode Island,Woonsocket,2895,Atlantic
+515,United States,South Carolina,Columbia,29203,Gulf
+516,United States,South Carolina,Florence,29501,Gulf
+517,United States,South Carolina,Mount Pleasant,29464,Gulf
+518,United States,South Carolina,North Charleston,29406,Gulf
+519,United States,South Carolina,Rock Hill,29730,Gulf
+520,United States,South Carolina,Summerville,29483,Gulf
+521,United States,South Dakota,Aberdeen,57401,Interior
+522,United States,South Dakota,Rapid City,57701,Interior
+523,United States,South Dakota,Sioux Falls,57103,Interior
+524,United States,Tennessee,Bartlett,38134,Gulf
+525,United States,Tennessee,Bristol,37620,Gulf
+526,United States,Tennessee,Chattanooga,37421,Gulf
+527,United States,Tennessee,Clarksville,37042,Gulf
+528,United States,Tennessee,Columbia,38401,Gulf
+529,United States,Tennessee,Franklin,37064,Gulf
+530,United States,Tennessee,Hendersonville,37075,Gulf
+531,United States,Tennessee,Jackson,38301,Gulf
+532,United States,Tennessee,Johnson City,37604,Gulf
+533,United States,Tennessee,Knoxville,37918,Gulf
+534,United States,Tennessee,Lebanon,37087,Gulf
+535,United States,Tennessee,Memphis,38109,Gulf
+536,United States,Tennessee,Murfreesboro,37130,Gulf
+537,United States,Tennessee,Nashville,37211,Gulf
+538,United States,Tennessee,Smyrna,37167,Gulf
+539,United States,Texas,Abilene,79605,Interior
+540,United States,Texas,Allen,75002,Interior
+541,United States,Texas,Amarillo,79109,Interior
+542,United States,Texas,Arlington,76017,Interior
+543,United States,Texas,Austin,78745,Interior
+544,United States,Texas,Baytown,77520,Interior
+545,United States,Texas,Beaumont,77705,Interior
+546,United States,Texas,Bedford,76021,Interior
+547,United States,Texas,Brownsville,78521,Interior
+548,United States,Texas,Bryan,77803,Interior
+549,United States,Texas,Carrollton,75007,Interior
+550,United States,Texas,Cedar Hill,75104,Interior
+551,United States,Texas,College Station,77840,Interior
+552,United States,Texas,Conroe,77301,Interior
+553,United States,Texas,Coppell,75019,Interior
+554,United States,Texas,Corpus Christi,78415,Interior
+555,United States,Texas,Dallas,75081,Interior
+556,United States,Texas,Dallas,75217,Interior
+557,United States,Texas,Dallas,75220,Interior
+558,United States,Texas,Deer Park,77536,Interior
+559,United States,Texas,Edinburg,78539,Interior
+560,United States,Texas,El Paso,79907,Interior
+561,United States,Texas,Fort Worth,76106,Interior
+562,United States,Texas,Frisco,75034,Interior
+563,United States,Texas,Garland,75043,Interior
+564,United States,Texas,Grand Prairie,75051,Interior
+565,United States,Texas,Grapevine,76051,Interior
+566,United States,Texas,Haltom City,76117,Interior
+567,United States,Texas,Harlingen,78550,Interior
+568,United States,Texas,Houston,77036,Interior
+569,United States,Texas,Houston,77041,Interior
+570,United States,Texas,Houston,77070,Interior
+571,United States,Texas,Houston,77095,Interior
+572,United States,Texas,Huntsville,77340,Interior
+573,United States,Texas,Irving,75061,Interior
+574,United States,Texas,Keller,76248,Interior
+575,United States,Texas,La Porte,77571,Interior
+576,United States,Texas,Laredo,78041,Interior
+577,United States,Texas,League City,77573,Interior
+578,United States,Texas,Lubbock,79424,Interior
+579,United States,Texas,Mansfield,76063,Interior
+580,United States,Texas,Mcallen,78501,Interior
+581,United States,Texas,Mesquite,75150,Interior
+582,United States,Texas,Missouri City,77489,Interior
+583,United States,Texas,Odessa,79762,Interior
+584,United States,Texas,Pasadena,77506,Interior
+585,United States,Texas,Pearland,77581,Interior
+586,United States,Texas,Pharr,78577,Interior
+587,United States,Texas,Plano,75023,Interior
+588,United States,Texas,Port Arthur,77642,Interior
+589,United States,Texas,Richardson,75080,Interior
+590,United States,Texas,Round Rock,78664,Interior
+591,United States,Texas,San Angelo,76903,Interior
+592,United States,Texas,San Antonio,78207,Interior
+593,United States,Texas,San Marcos,78666,Interior
+594,United States,Texas,Texas City,77590,Interior
+595,United States,Texas,The Colony,75056,Interior
+596,United States,Texas,Tyler,75701,Interior
+597,United States,Texas,Waco,76706,Interior
+598,United States,Utah,Draper,84020,Pacific
+599,United States,Utah,Layton,84041,Pacific
+600,United States,Utah,Lehi,84043,Pacific
+601,United States,Utah,Logan,84321,Pacific
+602,United States,Utah,Murray,84107,Pacific
+603,United States,Utah,Orem,84057,Pacific
+604,United States,Utah,Pleasant Grove,84062,Pacific
+605,United States,Utah,Provo,84604,Pacific
+606,United States,Utah,Salt Lake City,84106,Pacific
+607,United States,Utah,West Jordan,84084,Pacific
+608,United States,Vermont,Burlington,5401,Atlantic
+609,United States,Virginia,Alexandria,22304,Gulf
+610,United States,Virginia,Arlington,22204,Gulf
+611,United States,Virginia,Charlottesville,22901,Gulf
+612,United States,Virginia,Chesapeake,23320,Gulf
+613,United States,Virginia,Hampton,23666,Gulf
+614,United States,Virginia,Harrisonburg,22801,Gulf
+615,United States,Virginia,Newport News,23602,Gulf
+616,United States,Virginia,Richmond,23223,Gulf
+617,United States,Virginia,Salem,24153,Gulf
+618,United States,Virginia,Springfield,22153,Gulf
+619,United States,Virginia,Suffolk,23434,Gulf
+620,United States,Virginia,Virginia Beach,23464,Gulf
+621,United States,Virginia,Waynesboro,22980,Gulf
+622,United States,Washington,Auburn,98002,Pacific
+623,United States,Washington,Bellevue,98006,Pacific
+624,United States,Washington,Bellingham,98226,Pacific
+625,United States,Washington,Covington,98042,Pacific
+626,United States,Washington,Des Moines,98198,Pacific
+627,United States,Washington,Edmonds,98026,Pacific
+628,United States,Washington,Everett,98208,Pacific
+629,United States,Washington,Kent,98031,Pacific
+630,United States,Washington,Longview,98632,Pacific
+631,United States,Washington,Marysville,98270,Pacific
+632,United States,Washington,Olympia,98502,Pacific
+633,United States,Washington,Pasco,99301,Pacific
+634,United States,Washington,Redmond,98052,Pacific
+635,United States,Washington,Renton,98059,Pacific
+636,United States,Washington,Seattle,98103,Pacific
+637,United States,Washington,Seattle,98105,Pacific
+638,United States,Washington,Seattle,98115,Pacific
+639,United States,Washington,Spokane,99207,Pacific
+640,United States,Washington,Vancouver,98661,Pacific
+641,United States,West Virginia,Wheeling,26003,Atlantic
+642,United States,Wisconsin,Appleton,54915,Interior
+643,United States,Wisconsin,Eau Claire,54703,Interior
+644,United States,Wisconsin,Franklin,53132,Interior
+645,United States,Wisconsin,Green Bay,54302,Interior
+646,United States,Wisconsin,Kenosha,53142,Interior
+647,United States,Wisconsin,La Crosse,54601,Interior
+648,United States,Wisconsin,Madison,53711,Interior
+649,United States,Wisconsin,Milwaukee,53209,Interior
+650,United States,Wisconsin,Sheboygan,53081,Interior
+651,United States,Wisconsin,Superior,54880,Interior
+652,United States,Wisconsin,Waukesha,53186,Interior
+653,United States,Wisconsin,Wausau,54401,Interior
+654,United States,Wisconsin,West Allis,53214,Interior
+655,United States,Wyoming,Cheyenne,82001,Pacific
